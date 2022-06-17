@@ -180,6 +180,7 @@
 		box-shadow: 0 4px 20px -2px rgb(142, 142, 142);
 		margin-bottom: 20px !important;
 		text-align: center;
+		width: 100%;
 	}
 	
 	#topp b{
@@ -190,7 +191,7 @@
 	.formprop{
 		display: flex;
 		flex-direction: column;
-		width: 90%;
+		width: 100%;
 		padding: 30px 30px;
 		background-color: white;
 		border-radius: 7px;
@@ -273,7 +274,7 @@
 	#bigp{	
 		color: white;
 		font-size: 28px;
-		line-height: 8px;
+		line-height: 30px;
 		font-weight: 700;
 		text-align: center;
 	}
@@ -288,12 +289,12 @@
 	.formprop{
 		display: flex;
 		flex-direction: column;
-		width: 67vw;
+		width: 80%;
 		padding: 20px 30px;
 		background-color: white;
 		border-radius: 7px;
 		box-shadow: 0 4px 20px -2px rgb(142, 142, 142);
-		margin: 5px auto;
+		margin: 10px auto;
 	}
 
 	#topp{
@@ -303,7 +304,7 @@
 		font-size: 13px;
 		box-shadow: 0 4px 20px -2px rgb(142, 142, 142);
 		text-align: center;
-		margin-bottom: 30px	
+		padding: 13px 73px;
 	}
 	
 	#topp b{
@@ -325,7 +326,7 @@
 	#submit{
 		background-color: #1dd781;
 		color: white;
-		width: 100%;
+		width: 97.5%;
 		transition: ease-in-out 300ms;
 	}
 	
